@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Python, HTML/CSS, SCSS, SASS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Telegram(vers0p)
-- 🎯Target 50 repositories
+- 🎯Target 35 repositories
 
 <!---
 Skyl1te/Skyl1te is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
