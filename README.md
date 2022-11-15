@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning: Python, HTML/CSS, SCSS, SASS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Telegram(vers0p)
+- 📫 How to reach me: Telegram(vers0p), Instagram(@vers0p)
 - 🎯Target 35 repositories
 
 <!---
