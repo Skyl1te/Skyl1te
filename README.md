@@ -9,10 +9,4 @@ Front-end dev
 ![](https://streak-stats.demolab.com/?user=Skyl1te&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skyl1te&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Skyl1te&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chuhuivets.andrii@gmail.com) 
-
-  
