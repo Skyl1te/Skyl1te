@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="Expense Tracker">
+  <rect x="0.5" y="0.5" width="599" height="199" rx="12" fill="none" stroke="#d1d9e0"/>
+  <text x="28" y="54" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328">Expense Tracker</text>
+  <circle cx="525" cy="45" r="6" fill="#f34b7d"/>
+  <text x="572" y="51" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">C++</text>
+  <text x="28" y="98" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">Command-line expense tracker</text>
+  <text x="28" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">Layered design · monthly &amp; category reports</text>
+  <rect x="28" y="146" width="81" height="32" rx="16" fill="none" stroke="#4f46e5" stroke-opacity="0.6"/>
+  <text x="68.5" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#4f46e5">C++20</text>
+  <rect x="119" y="146" width="61" height="32" rx="16" fill="none" stroke="#4f46e5" stroke-opacity="0.6"/>
+  <text x="149.5" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#4f46e5">STL</text>
+  <rect x="190" y="146" width="61" height="32" rx="16" fill="none" stroke="#4f46e5" stroke-opacity="0.6"/>
+  <text x="220.5" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#4f46e5">CLI</text>
+</svg>

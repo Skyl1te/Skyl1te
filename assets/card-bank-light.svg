@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-label="Bank Management System">
+  <rect x="0.5" y="0.5" width="599" height="199" rx="12" fill="none" stroke="#d1d9e0"/>
+  <text x="28" y="54" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#1f2328">Bank Management System</text>
+  <circle cx="547" cy="45" r="6" fill="#555555"/>
+  <text x="572" y="51" text-anchor="end" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">C</text>
+  <text x="28" y="98" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">Modular banking app in C</text>
+  <text x="28" y="126" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="20" fill="#59636e">Integer-cent balances · realloc-grown arrays</text>
+  <rect x="28" y="146" width="61" height="32" rx="16" fill="none" stroke="#4f46e5" stroke-opacity="0.6"/>
+  <text x="58.5" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#4f46e5">C17</text>
+  <rect x="99" y="146" width="81" height="32" rx="16" fill="none" stroke="#4f46e5" stroke-opacity="0.6"/>
+  <text x="139.5" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#4f46e5">CMake</text>
+  <rect x="190" y="146" width="132" height="32" rx="16" fill="none" stroke="#4f46e5" stroke-opacity="0.6"/>
+  <text x="256.0" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" fill="#4f46e5">binary I/O</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-label="Skyl1te — Computer Science Student, C &amp; C++ Developer">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#fff" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="m"><rect x="600" y="0" width="200" height="220" fill="url(#fade)"/></mask>
+  </defs>
+  <g mask="url(#m)" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#59636e" opacity="0.45">
+    <text x="780" y="46" text-anchor="end">long long balance;</text>
+    <text x="780" y="76" text-anchor="end">// money in cents</text>
+    <text x="780" y="106" text-anchor="end">cap *= 2;</text>
+    <text x="780" y="136" text-anchor="end">realloc(acc, size);</text>
+    <text x="780" y="166" text-anchor="end">unordered_map&lt;int,int&gt;</text>
+    <text x="780" y="196" text-anchor="end">history.push_back(s);</text>
+  </g>
+  <text x="24" y="58" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#4f46e5">~/skyl1te</text>
+  <text x="22" y="124" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="60" font-weight="600" fill="#1f2328" letter-spacing="-1">Skyl1te</text>
+  <rect x="24" y="146" width="64" height="2" rx="1" fill="#4f46e5"/>
+  <text x="24" y="186" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="24" fill="#59636e">Computer Science Student · C &amp; C++ Developer</text>
+</svg>
