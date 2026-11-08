@@ -55,7 +55,7 @@ I started with Python scripts and web layouts, but what kept me going was wantin
 <p>
   <b>Frontend — secondary</b><br>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,sass,tailwind,js&theme=dark"><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js&theme=light" height="36" alt="HTML, CSS, Sass, Tailwind, JavaScript"></picture><br>
-  <sub>responsive layouts from Frontend Mentor designs · <a href="https://github.com/Skyl1te/CodeArena">CodeArena</a>, a Django online judge · C# / .NET CLI tools</sub>
+  <sub>responsive layouts from Frontend Mentor designs · <a href="https://github.com/Skyl1te/CodeArena">CodeArena</a></sub>
 </p>
 
 <br>
